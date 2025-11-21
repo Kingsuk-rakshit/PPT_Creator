@@ -1,0 +1,20 @@
+# Ignore compiled python files
+__pycache__/
+*.pyc
+
+
+# Ignore environment variables and keys
+.env
+venv/
+
+
+# Ignore generated PPT files and images
+*.pptx
+*.png
+*.jpg
+
+
+# Ignore VS Code settings
+.vscode/
+
+
