@@ -12,3 +12,7 @@ It creates complete presentation slides — including titles, bullet points, and
 
 ## Usage
 Enter a topic → review the generated outline → confirm → download your fully prepared PowerPoint.
+
+## Demo Video
+
+https://raw.githubusercontent.com/Kingsuk-rakshit/PPT_Creator/main/PPTgenerator.mp4
