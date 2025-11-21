@@ -15,7 +15,6 @@ Enter a topic → review the generated outline → confirm → download your ful
 
 ## Demo Video
 
-[![Demo Video](https://via.placeholder.com/800x400.png?text=Click+to+Watch+Demo)](https://raw.githubusercontent.com/Kingsuk-rakshit/PPT_Creator/main/PPTgenerator.mp4)
-
+[![Demo Video](https://via.placeholder.com/900x450/0d1117/ffffff?text=▶+Watch+Demo+Video)](https://raw.githubusercontent.com/Kingsuk-rakshit/PPT_Creator/main/PPTgenerator.mp4)
 
 
